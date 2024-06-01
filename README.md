@@ -109,3 +109,48 @@ def coin_toss_game():
 
 coin_toss_game()
 ```
+
+CODES FROM CLASS DATORIUM
+
+```py
+# defining a class Client, which will store all data and methods clients
+class Client:
+  number_of_clients = 0  
+
+  def __init__(self, id, name):
+    self.id = id
+    self.name = name
+    self.accounts = []
+    Client.number_of_clients += 1
+
+  def add_account(self, account):
+    self.accounts.append(account)
+
+# defining a class Account, which will store all data and methods of any account
+class Account:
+  def __init__(self, number, currency):
+    self.number = number
+    self.currency = currency
+
+# now, let us work using those classes
+# adding clients to a list
+clients = []
+clients.append(Client('123456', 'Anna'))
+clients.append(Client('987654', 'Oskar'))
+clients.append(Client('456123', 'Jenifer'))
+
+# adding accounts to clients
+clients[0].add_account(Account('EE654987564321', 'EUR'))
+clients[0].add_account(Account('JP582147859635', 'JPY'))
+clients[0].add_account(Account('US654987643214', 'USD'))
+
+
+# printing some data
+print(f'We have {Client.number_of_clients} clients in our bank:')
+
+print(clients[1].name)
+
+for client in clients:
+  print(client.name)
+
+```
