@@ -154,3 +154,14 @@ for client in clients:
   print(client.name)
 
 ```
+
+CORRELATION
+
+The correlation coefficient indicates the strength and direction of the statistical relationship between two variables. The coefficient ranges from -1 to 1, with a value of 0.43 signifying a positive but moderately strong relationship between the two variables.
+
+A positive correlation coefficient means that the variables increase together. Therefore, as one variable increases, the other also tends to increase, and vice versa.
+The closer the correlation coefficient is to 1, the stronger the positive relationship.
+A correlation coefficient of 0.43 is not very high, but it indicates a moderately positive relationship.
+If the correlation coefficient were negative, it would suggest that as one variable increases, the other variable decreases.
+A correlation coefficient of -1 indicates a perfect negative relationship.
+Thus, a correlation coefficient of 0.43 might suggest that, for example, as Pokémon's Attack values increase, their Defense values tend to increase as well, but the relationship is not very strong.
