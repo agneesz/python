@@ -172,9 +172,12 @@ REGULAR EXPRESSIONS
 
 ![alt text](https://media.discordapp.net/attachments/1216750732779327638/1292021330060775525/image.png?ex=67023821&is=6700e6a1&hm=3ebca3ceefa4148b45e132cc0e0d544b4acfcc1db0a657e348c194150514c5b7&=&format=webp&quality=lossless&width=1422&height=870)
 
-[I'm an inline-style link]((https://docs.python.org/3/library/re.html))
+[I'm an inline-style link]([(https://docs.python.org/3/library/re.html)])
 
+https://docs.python.org/3/library/re.html
 
 [
-](https://discord.com/channels/1216748744385626222/1216750732779327638/1292020232281657394)
+]([https://docs.python.org/3/library/re.html])
+
+
 
