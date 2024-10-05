@@ -170,6 +170,11 @@ Thus, a correlation coefficient of 0.43 might suggest that, for example, as Pok√
 REGULAR EXPRESSIONS
 
 
+Inline-style: 
+![alt text](https://discord.com/channels/1216748744385626222/1216750732779327638/1292021330140598295)
+
+
+
 [I'm an inline-style link]([(https://docs.python.org/3/library/re.html)])
 
 https://docs.python.org/3/library/re.html
