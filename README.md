@@ -165,3 +165,15 @@ A correlation coefficient of 0.43 is not very high, but it indicates a moderatel
 If the correlation coefficient were negative, it would suggest that as one variable increases, the other variable decreases.
 A correlation coefficient of -1 indicates a perfect negative relationship.
 Thus, a correlation coefficient of 0.43 might suggest that, for example, as Pokémon's Attack values increase, their Defense values tend to increase as well, but the relationship is not very strong.
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://media.discordapp.net/attachments/1216750732779327638/1292021330060775525/image.png?ex=67023821&is=6700e6a1&hm=3ebca3ceefa4148b45e132cc0e0d544b4acfcc1db0a657e348c194150514c5b7&=&format=webp&quality=lossless&width=1422&height=870)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
