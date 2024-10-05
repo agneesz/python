@@ -171,7 +171,9 @@ REGULAR EXPRESSIONS
 
 
 Inline-style: 
-![alt text]([https://discord.com/channels/1216748744385626222/1216750732779327638/1292021330140598295](https://cdn.discordapp.com/attachments/1216750732779327638/1292021330060775525/image.png?ex=67023821&is=6700e6a1&hm=3ebca3ceefa4148b45e132cc0e0d544b4acfcc1db0a657e348c194150514c5b7&))
+![alt text](https://media.discordapp.net/attachments/1216750732779327638/1292021330060775525/image.png?ex=67023821&is=6700e6a1&hm=3ebca3ceefa4148b45e132cc0e0d544b4acfcc1db0a657e348c194150514c5b7&=&format=webp&quality=lossless&width=1422&height=870)
+
+
 
 
 
